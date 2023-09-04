@@ -122,3 +122,6 @@ EMAIL_HOST_USER = 'chromweechannelusa@gmail.com'
 EMAIL_HOST_PASSWORD = 'cryjvbgzpwxvwuic'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
+
+MEDIA_URL = 'media/'
+MEDIA_ROOT = BASE_DIR / 'media'
